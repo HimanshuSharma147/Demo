@@ -1,0 +1,21 @@
+@media  screen and (max-width:500px) {
+    .video-overlay{
+        background: linear-gradient(130deg, rgb(0, 120, 218) 50%, rgb(0, 48, 204) 50%);
+    }
+    .fixed-top{
+        display:none;
+    }
+    .getquote{
+        width: 250px;
+    }
+    .grow{
+        font-size: 10px;
+    }
+    .search-btn{
+        margin: 10px;
+        height: 50px;
+        width: 240px ;
+
+    }
+}
+
